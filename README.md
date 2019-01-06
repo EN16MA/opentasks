@@ -31,4 +31,4 @@ This is a task app for Android.
 
 ## License
 
-Copyright (c) Marten Gajda 2013-2015, licensed under Apache2.
+Copyright (c) Marten Gajda 2013-2019, licensed under Apache2.
